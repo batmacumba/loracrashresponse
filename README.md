@@ -1,3 +1,5 @@
+Experiments related to the paper "A Crash Response System using LoRa-based V2X Communications" (Authored by Bruno Carneiro da Cunha, Daniel Macêdo Batista, Roberto Hirata Jr., Kifayat Ullah) presented at the 6th International Workshop on Intelligent Transportation and Autonomous Vehicles Technologies (ITAVT 2023) in conjunction with IEEE/IFIP Network Operations and Management Symposium (NOMS 2023). The experiments were planned to show the performance (packet delivery ratio,latency, and network coverage) of an automated crash response system based on LoRa communications.
+
 ### Installing:
 
 1. Download ns-3:
